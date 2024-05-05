@@ -1,3 +1,6 @@
+Deployed Link
+https://6637cbc5669e3d0aed3158d3--todo-react-app-assignment.netlify.app/
+
 # How to setup a React app with Vite?
 
 -> npm create vite@latest.
